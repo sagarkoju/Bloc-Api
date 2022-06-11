@@ -1,7 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:bloc_api/Model/post.dart';
 import 'package:bloc_api/Repository/api_repository.dart';
-import 'package:bloc_api/Service/data_service.dart';
 import 'package:meta/meta.dart';
 
 part 'post_event.dart';
